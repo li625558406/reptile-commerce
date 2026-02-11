@@ -1,0 +1,668 @@
+[
+  {
+    "product_name": "Coway Mighty Air Purifier with True HEPA Filtration",
+    "url": "https://www.sylvane.com/products/coway-ap-1512hh-air-purifier",
+    "price": 219.99,
+    "image_url": "",
+    "coverage_area": 326,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 53.8,
+      "max_noise": 53.8
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+mighty+with+true+filtration&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.591901"
+  },
+  {
+    "product_name": "Coway Airmega Pro X Large Space HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/coway-airmega-pro-x-large-space-air-purifier",
+    "price": 899.99,
+    "image_url": "",
+    "coverage_area": 2126,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 46,
+      "max_noise": 46
+    },
+    "filter_type": "HEPA \nGreen True HEPA Filter",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+pro+x+large&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Coway Airmega 200M HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/coway-airmega-200m-air-purifier",
+    "price": 219.99,
+    "image_url": "",
+    "coverage_area": 361,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55.1,
+      "max_noise": 55.1
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+200m&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Coway Airmega 400 HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/coway-airmega-400-air-purifier",
+    "price": 589.99,
+    "image_url": "",
+    "coverage_area": 1560,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55,
+      "max_noise": 55
+    },
+    "filter_type": "HEPA \nGreen-True HEPA",
+    "fan_speeds": 2,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+400&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Coway Airmega 100 HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/coway-airmega-100-hepa-air-purifier",
+    "price": 119.99,
+    "image_url": "",
+    "coverage_area": 810,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 48,
+      "max_noise": 48
+    },
+    "filter_type": "HEPA \nTrue HEPA Filter",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+100&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Austin Air HealthMate Plus HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/austin-air-healthmate-plus-air-purifier",
+    "price": 994.99,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 66,
+      "max_noise": 66
+    },
+    "filter_type": "HEPA \n60 sq. ft. of true medical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+healthmate+plus&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Dri-Eaz HEPA 700 Air Scrubber",
+    "url": "https://www.sylvane.com/products/dri-eaz-hepa-700-air-scrubber",
+    "price": 1323.0,
+    "image_url": "",
+    "coverage_area": 875,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 67,
+      "max_noise": 67
+    },
+    "filter_type": "HEPA \nTrue medical-grade HEPA",
+    "fan_speeds": null,
+    "amazon_link": "https://www.amazon.com/s?k=dri-eaz+700+air+scrubber&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Winix True HEPA Large Room Smart Wi-Fi Air Purifier",
+    "url": "https://www.sylvane.com/products/winix-5510-5520-true-hepa-large-room-smart-wifi-air-purifier",
+    "price": 229.99,
+    "image_url": "",
+    "coverage_area": 392,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 56.2,
+      "max_noise": 56.2
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 5,
+    "amazon_link": "https://www.amazon.com/s?k=winix+true+large+room+smart&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Coway Airmega 400S Smart HEPA Air Purifier",
+    "url": "https://www.sylvane.com/products/coway-airmega-400s-smart-air-purifier",
+    "price": 599.99,
+    "image_url": "",
+    "coverage_area": 1560,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 52,
+      "max_noise": 52
+    },
+    "filter_type": "HEPA \nGreen - True HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+400s+smart&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Winix PlasmaWave 9800 True HEPA Wi-Fi Large Room Air Purifier",
+    "url": "https://www.sylvane.com/products/winix-plasmawave-9800-true-hepa-wifi-large-room-air-purifier",
+    "price": 289.99,
+    "image_url": "",
+    "coverage_area": 500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55.2,
+      "max_noise": 55.2
+    },
+    "filter_type": "HEPA \n99.99% True HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=winix+plasmawave+9800+true+wi-fi&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Austin Air HealthMate Air Purifier",
+    "url": "https://www.sylvane.com/products/austin-air-healthmate-air-purifier",
+    "price": 844.99,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 66,
+      "max_noise": 66
+    },
+    "filter_type": "HEPA \n60 sq. ft. of true medical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+healthmate&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Austin Air Healthmate Plus Jr. Air Purifier",
+    "url": "https://www.sylvane.com/products/austin-air-healthmate-plus-jr-air-purifier",
+    "price": 659.99,
+    "image_url": "",
+    "coverage_area": 700,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 65,
+      "max_noise": 65
+    },
+    "filter_type": "HEPA \n30 sq. ft. of true medical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+healthmate+plus+jr.&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Aprilaire 1000 Series MERV 11 Whole House Air Cleaners",
+    "url": "https://www.sylvane.com/products/aprilaire-1000-air-cleaners",
+    "price": 129.99,
+    "image_url": "",
+    "coverage_area": 2000,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": null,
+      "max_noise": null
+    },
+    "filter_type": "Aprilaire 910 MERV-11 (standard)\n\nAprilaire 913 MERV-13 (upgrade)",
+    "fan_speeds": null,
+    "amazon_link": "https://www.amazon.com/s?k=aprilaire+1000+merv+11+whole&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592401"
+  },
+  {
+    "product_name": "Santa Fe HEPA Air Purifier w/ UV Sterilization",
+    "url": "https://www.sylvane.com/products/santa-fe-hepa-air-purifier-uv-sterilization",
+    "price": 169.99,
+    "image_url": "",
+    "coverage_area": 500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55,
+      "max_noise": 55
+    },
+    "filter_type": "HEPA \nTrue HEPA Filter",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=santa+fe+w%2F+uv+sterilization&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Novatek Novair 2000 HEPA Air Scrubber & Negative Air Machine",
+    "url": "https://www.sylvane.com/products/novatek-f2100-novair-2000-hepa-air-scrubber-negative-air-machine",
+    "price": 1225.0,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 80,
+      "max_noise": 80
+    },
+    "filter_type": "HEPA \nGenuine HEPA Filter",
+    "fan_speeds": 2,
+    "amazon_link": "https://www.amazon.com/s?k=novatek+novair+2000+air+scrubber&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Austin Air Immunity Machine Air Purifier",
+    "url": "https://www.sylvane.com/products/austin-air-immunity-machine-air-purifier",
+    "price": 1144.99,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": null,
+      "max_noise": null
+    },
+    "filter_type": "Air Quality",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+immunity+machine&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Austin Air HealthMate Plus HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/austin-air-healthmate-plus-air-purifier",
+    "price": 994.99,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 66,
+      "max_noise": 66
+    },
+    "filter_type": "HEPA \n60 sq. ft. of true medical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+healthmate+plus&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Blueair Blue Pure 311i Max Smart Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/blueair-blue-pure-311i-max-air-purifier",
+    "price": 229.0,
+    "image_url": "",
+    "coverage_area": 929,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 50,
+      "max_noise": 50
+    },
+    "filter_type": "HEPA \nHEPASilent",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=blueair+blue+pure+311i+max&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Coway Mighty Air Purifier with True HEPA Filtration",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/coway-ap-1512hh-air-purifier",
+    "price": 219.99,
+    "image_url": "",
+    "coverage_area": 326,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 53.8,
+      "max_noise": 53.8
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+mighty+with+true+filtration&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Coway Airmega 200M HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/coway-airmega-200m-air-purifier",
+    "price": 219.99,
+    "image_url": "",
+    "coverage_area": 361,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55.1,
+      "max_noise": 55.1
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+200m&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Winix PlasmaWave 9800 True HEPA Wi-Fi Large Room Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/winix-plasmawave-9800-true-hepa-wifi-large-room-air-purifier",
+    "price": 289.99,
+    "image_url": "",
+    "coverage_area": 500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55.2,
+      "max_noise": 55.2
+    },
+    "filter_type": "HEPA \n99.99% True HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=winix+plasmawave+9800+true+wi-fi&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Austin Air it Personal HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/austin-air-it-personal-hepa-air-purifier",
+    "price": 359.99,
+    "image_url": "",
+    "coverage_area": 700,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 63,
+      "max_noise": 63
+    },
+    "filter_type": "HEPA \nMedical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+it+personal&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Coway Airmega 400 HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/coway-airmega-400-air-purifier",
+    "price": 589.99,
+    "image_url": "",
+    "coverage_area": 1560,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55,
+      "max_noise": 55
+    },
+    "filter_type": "HEPA \nGreen-True HEPA",
+    "fan_speeds": 2,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+400&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Santa Fe HEPA Air Purifier w/ UV Sterilization",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/santa-fe-hepa-air-purifier-uv-sterilization",
+    "price": 169.99,
+    "image_url": "",
+    "coverage_area": 500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 55,
+      "max_noise": 55
+    },
+    "filter_type": "HEPA \nTrue HEPA Filter",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=santa+fe+w%2F+uv+sterilization&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Whirlpool WP500 Whispure HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/whirlpool-wp500-air-purifier",
+    "price": 264.99,
+    "image_url": "",
+    "coverage_area": 490,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 49,
+      "max_noise": 49
+    },
+    "filter_type": "HEPA \nTrue medical-grade HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=whirlpool+wp500+whispure&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.592900"
+  },
+  {
+    "product_name": "Airpura T700/T700DLX Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/airpura-t700-air-purifier",
+    "price": 1199.98,
+    "image_url": "",
+    "coverage_area": 2000,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 63,
+      "max_noise": 63
+    },
+    "filter_type": "HEPA \nTrue HEPA Filter",
+    "fan_speeds": null,
+    "amazon_link": "https://www.amazon.com/s?k=airpura+t700%2Ft700dlx&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Blueair Blue Pure 211i Max Smart Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/blueair-blue-pure-211i-max-air-purifier",
+    "price": 349.0,
+    "image_url": "",
+    "coverage_area": 1524,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 53,
+      "max_noise": 53
+    },
+    "filter_type": "HEPA \nHEPASilent",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=blueair+blue+pure+211i+max&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Amaircare AirWash Whisper AWW675 HEPA Filtration System",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/amaircare-airwash-whisper-aww675-hepa-filtration-system",
+    "price": 1259.0,
+    "image_url": "",
+    "coverage_area": null,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 86,
+      "max_noise": 86
+    },
+    "filter_type": "HEPA \nTrue HEPA Cartridge",
+    "fan_speeds": 1,
+    "amazon_link": "https://www.amazon.com/s?k=amaircare+airwash+whisper+aww675+filtration&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Whirlpool WPPRO2000 Whispure HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/whirlpool-wppro2000-air-purifier",
+    "price": 329.99,
+    "image_url": "",
+    "coverage_area": 508,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 49,
+      "max_noise": 49
+    },
+    "filter_type": "HEPA \nTrue medical-grade HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=whirlpool+wppro2000+whispure&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Coway Airmega 400S Smart HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/coway-airmega-400s-smart-air-purifier",
+    "price": 599.99,
+    "image_url": "",
+    "coverage_area": 1560,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 52,
+      "max_noise": 52
+    },
+    "filter_type": "HEPA \nGreen - True HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=coway+airmega+400s+smart&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Austin Air HealthMate Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/austin-air-healthmate-air-purifier",
+    "price": 844.99,
+    "image_url": "",
+    "coverage_area": 1500,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 66,
+      "max_noise": 66
+    },
+    "filter_type": "HEPA \n60 sq. ft. of true medical-grade HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=austin+air+healthmate&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Winix AM90 PlasmaWave True HEPA Wi-Fi Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/winix-am90-plasmawave-true-hepa-wifi-air-purifier",
+    "price": 209.99,
+    "image_url": "",
+    "coverage_area": 360,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 54.8,
+      "max_noise": 54.8
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 3,
+    "amazon_link": "https://www.amazon.com/s?k=winix+am90+plasmawave+true+wi-fi&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Rabbit Air MinusA3 HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/rabbit-air-minusa3-air-purifier",
+    "price": 749.95,
+    "image_url": "",
+    "coverage_area": 1070,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 51,
+      "max_noise": 51
+    },
+    "filter_type": "HEPA \nBioGS HEPA Filter",
+    "fan_speeds": 64,
+    "amazon_link": "https://www.amazon.com/s?k=rabbit+air+minusa3&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Levoit LV-RH131S Smart True HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/levoit-lvpur131-true-hepa-air-purifier",
+    "price": 99.99,
+    "image_url": "",
+    "coverage_area": 360,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 52,
+      "max_noise": 52
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": null,
+    "amazon_link": "https://www.amazon.com/s?k=levoit+lv-rh131s+smart+true&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Airmega 300S Smart HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/coway-airmega-300s-smart-air-purifier",
+    "price": 499.99,
+    "image_url": "",
+    "coverage_area": 1256,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 52,
+      "max_noise": 52
+    },
+    "filter_type": "HEPA \nGreen True HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=airmega+300s+smart&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "Amaircare Roomaid HEPA Air Filtration System",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/amaircare-roomaid-hepa-air-filtration-system",
+    "price": 249.0,
+    "image_url": "",
+    "coverage_area": 300,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 47,
+      "max_noise": 47
+    },
+    "filter_type": "HEPA \nPleated HEPA Cartridge",
+    "fan_speeds": 2,
+    "amazon_link": "https://www.amazon.com/s?k=amaircare+roomaid+air+filtration+system&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  },
+  {
+    "product_name": "LivePure Bali HEPA Air Purifier",
+    "url": "https://www.sylvane.com/collections/air-purifiers/products/livepure-bali-hepa-air-purifier",
+    "price": 199.99,
+    "image_url": "",
+    "coverage_area": 550,
+    "cadr_smoke": null,
+    "cadr_pollen": null,
+    "cadr_dust": null,
+    "noise_level": {
+      "min_noise": 33,
+      "max_noise": 33
+    },
+    "filter_type": "HEPA \nTrue HEPA",
+    "fan_speeds": 4,
+    "amazon_link": "https://www.amazon.com/s?k=livepure+bali&tag=YOUR_TAG-20",
+    "processed_at": "2026-02-11T22:53:48.593400"
+  }
+]

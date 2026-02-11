@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(chcp:*)",
+      "Bash(PYTHONIOENCODING=utf-8 python:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
